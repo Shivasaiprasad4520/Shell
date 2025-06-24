@@ -1,3 +1,3 @@
 # Shell
 Schell Scripts
-practice the shell
+my frnd changed something
